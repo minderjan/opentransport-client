@@ -41,7 +41,9 @@ go get -v github.com/minderjan/opentransport-client/opentransport
 
 The library is separated into different services. These are accessible via an instance of the OpenTransport Client.
 
-![overview](.github/services.png)
+ <p align="center">
+     <img src=".github/services.png">
+ </p>
 
 ## Example
 ```go

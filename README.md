@@ -11,6 +11,8 @@
       The corresponding documentation of the API can be found here: https://transport.opendata.ch/docs.html
  </p>
 
+---
+
 __Restrictions__
 
 * The number of queries against the API are [limited](https://timetable.search.ch/api/help). 

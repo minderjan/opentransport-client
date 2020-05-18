@@ -1,0 +1,124 @@
+{
+  "stations": [
+    {
+      "id": null,
+      "name": "Dynamostr. 2, Baden",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": null,
+        "y": null
+      },
+      "distance": 10,
+      "icon": null
+    },
+    {
+      "id": "8590173",
+      "name": "Baden, Gartenstrasse",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.47561,
+        "y": 8.304934
+      },
+      "distance": 100,
+      "icon": "bus"
+    },
+    {
+      "id": "8503600",
+      "name": "Baden, Bahnhof",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.475807,
+        "y": 8.30755
+      },
+      "distance": 109,
+      "icon": "bus"
+    },
+    {
+      "id": "8503504",
+      "name": "Baden",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.476417,
+        "y": 8.307706
+      },
+      "distance": 127,
+      "icon": "train"
+    },
+    {
+      "id": "8578914",
+      "name": "Baden, Bahnhof West",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.477024,
+        "y": 8.307159
+      },
+      "distance": 138,
+      "icon": "bus"
+    },
+    {
+      "id": "8590190",
+      "name": "Baden, Bahnhof Ost",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.476566,
+        "y": 8.308186
+      },
+      "distance": 167,
+      "icon": "bus"
+    },
+    {
+      "id": "8590189",
+      "name": "Baden, Rütistrasse",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.474233,
+        "y": 8.305044
+      },
+      "distance": 213,
+      "icon": "bus"
+    },
+    {
+      "id": "8572550",
+      "name": "Baden, Postautostation",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.477438,
+        "y": 8.308267
+      },
+      "distance": 227,
+      "icon": "bus"
+    },
+    {
+      "id": "8590192",
+      "name": "Baden, Schlossbergplatz",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.474002,
+        "y": 8.307083
+      },
+      "distance": 233,
+      "icon": "bus"
+    },
+    {
+      "id": "8590197",
+      "name": "Baden, Trafo",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.478091,
+        "y": 8.306367
+      },
+      "distance": 233,
+      "icon": "bus"
+    }
+  ]
+}

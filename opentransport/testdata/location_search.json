@@ -1,0 +1,124 @@
+{
+  "stations": [
+    {
+      "id": "8503000",
+      "name": "Zürich HB",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.377847,
+        "y": 8.540502
+      },
+      "distance": null,
+      "icon": "train"
+    },
+    {
+      "id": "8503006",
+      "name": "Zürich Oerlikon",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.411526,
+        "y": 8.54414
+      },
+      "distance": null,
+      "icon": "train"
+    },
+    {
+      "id": "8503020",
+      "name": "Zürich Hardbrücke",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.385087,
+        "y": 8.517686
+      },
+      "distance": null,
+      "icon": null
+    },
+    {
+      "id": "8503003",
+      "name": "Zürich Stadelhofen",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.366607,
+        "y": 8.548492
+      },
+      "distance": null,
+      "icon": null
+    },
+    {
+      "id": "8503016",
+      "name": "Zürich Flughafen",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.450379,
+        "y": 8.562398
+      },
+      "distance": null,
+      "icon": "train"
+    },
+    {
+      "id": "8503001",
+      "name": "Zürich Altstetten",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.391478,
+        "y": 8.488966
+      },
+      "distance": null,
+      "icon": "train"
+    },
+    {
+      "id": "8576193",
+      "name": "Zürich, Bellevue",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.367089,
+        "y": 8.545112
+      },
+      "distance": null,
+      "icon": "tram"
+    },
+    {
+      "id": "8591299",
+      "name": "Zürich, Paradeplatz",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.36973,
+        "y": 8.538918
+      },
+      "distance": null,
+      "icon": "tram"
+    },
+    {
+      "id": "8588078",
+      "name": "Zürich, Central",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.376842,
+        "y": 8.543937
+      },
+      "distance": null,
+      "icon": "tram"
+    },
+    {
+      "id": "8580522",
+      "name": "Zürich, Escher-Wyss-Platz",
+      "score": null,
+      "coordinate": {
+        "type": "WGS84",
+        "x": 47.390791,
+        "y": 8.522398
+      },
+      "distance": null,
+      "icon": "tram"
+    }
+  ]
+}

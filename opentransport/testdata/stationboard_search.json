@@ -1,0 +1,2271 @@
+{
+  "station": {
+    "id": "8591382",
+    "name": "Zürich, Sternen Oerlikon",
+    "score": null,
+    "coordinate": {
+      "type": "WGS84",
+      "x": 47.410067,
+      "y": 8.54623
+    },
+    "distance": null
+  },
+  "stationboard": [
+    {
+      "stop": {
+        "station": {
+          "id": "8591382",
+          "name": "Zürich, Sternen Oerlikon",
+          "score": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 47.410067,
+            "y": 8.54623
+          },
+          "distance": null
+        },
+        "arrival": null,
+        "arrivalTimestamp": null,
+        "departure": "2020-05-02T20:00:00+0200",
+        "departureTimestamp": 1588442400,
+        "delay": null,
+        "platform": null,
+        "prognosis": {
+          "platform": null,
+          "arrival": null,
+          "departure": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "realtimeAvailability": null,
+        "location": {
+          "id": "8591349",
+          "name": null,
+          "score": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": null,
+            "y": null
+          },
+          "distance": null
+        }
+      },
+      "name": "B 19326",
+      "category": "B",
+      "subcategory": null,
+      "categoryCode": null,
+      "number": "61",
+      "operator": "VBZ",
+      "to": "Zürich, Schwamendingerplatz",
+      "passList": [
+        {
+          "station": {
+            "id": "8591349",
+            "name": null,
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": null,
+              "y": null
+            },
+            "distance": null
+          },
+          "arrival": null,
+          "arrivalTimestamp": null,
+          "departure": "2020-05-02T20:00:00+0200",
+          "departureTimestamp": 1588442400,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591349",
+            "name": null,
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": null,
+              "y": null
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591273",
+            "name": "Zürich, Messe/Hallenstadion",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.410956,
+              "y": 8.550091
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:01:00+0200",
+          "arrivalTimestamp": 1588442460,
+          "departure": "2020-05-02T20:01:00+0200",
+          "departureTimestamp": 1588442460,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591273",
+            "name": "Zürich, Messe/Hallenstadion",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.410956,
+              "y": 8.550091
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591175",
+            "name": "Zürich, Hallenbad Oerlikon",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.410702,
+              "y": 8.555863
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:02:00+0200",
+          "arrivalTimestamp": 1588442520,
+          "departure": "2020-05-02T20:02:00+0200",
+          "departureTimestamp": 1588442520,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591175",
+            "name": "Zürich, Hallenbad Oerlikon",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.410702,
+              "y": 8.555863
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591319",
+            "name": "Zürich, Riedgraben",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.4108,
+              "y": 8.558833
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:03:00+0200",
+          "arrivalTimestamp": 1588442580,
+          "departure": "2020-05-02T20:03:00+0200",
+          "departureTimestamp": 1588442580,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591319",
+            "name": "Zürich, Riedgraben",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.4108,
+              "y": 8.558833
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591330",
+            "name": "Zürich, Saatlenstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.410806,
+              "y": 8.562862
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:04:00+0200",
+          "arrivalTimestamp": 1588442640,
+          "departure": "2020-05-02T20:04:00+0200",
+          "departureTimestamp": 1588442640,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591330",
+            "name": "Zürich, Saatlenstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.410806,
+              "y": 8.562862
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591113",
+            "name": "Zürich, Dreispitz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.410791,
+              "y": 8.567168
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:04:00+0200",
+          "arrivalTimestamp": 1588442640,
+          "departure": "2020-05-02T20:04:00+0200",
+          "departureTimestamp": 1588442640,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591113",
+            "name": "Zürich, Dreispitz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.410791,
+              "y": 8.567168
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591047",
+            "name": "Zürich, Aubrücke",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.410877,
+              "y": 8.572126
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:06:00+0200",
+          "arrivalTimestamp": 1588442760,
+          "departure": "2020-05-02T20:06:00+0200",
+          "departureTimestamp": 1588442760,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591047",
+            "name": "Zürich, Aubrücke",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.410877,
+              "y": 8.572126
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591188",
+            "name": "Zürich, Herzogenmühlestrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.407525,
+              "y": 8.572704
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:06:00+0200",
+          "arrivalTimestamp": 1588442760,
+          "departure": "2020-05-02T20:06:00+0200",
+          "departureTimestamp": 1588442760,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591188",
+            "name": "Zürich, Herzogenmühlestrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.407525,
+              "y": 8.572704
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591349",
+            "name": "Zürich, Schwamendingerplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.404684,
+              "y": 8.571649
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:08:00+0200",
+          "arrivalTimestamp": 1588442880,
+          "departure": null,
+          "departureTimestamp": null,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591349",
+            "name": "Zürich, Schwamendingerplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.404684,
+              "y": 8.571649
+            },
+            "distance": null
+          }
+        }
+      ],
+      "capacity1st": null,
+      "capacity2nd": null
+    },
+    {
+      "stop": {
+        "station": {
+          "id": "8591382",
+          "name": "Zürich, Sternen Oerlikon",
+          "score": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 47.410067,
+            "y": 8.54623
+          },
+          "distance": null
+        },
+        "arrival": null,
+        "arrivalTimestamp": null,
+        "departure": "2020-05-02T20:01:00+0200",
+        "departureTimestamp": 1588442460,
+        "delay": null,
+        "platform": null,
+        "prognosis": {
+          "platform": null,
+          "arrival": null,
+          "departure": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "realtimeAvailability": null,
+        "location": {
+          "id": "8591281",
+          "name": null,
+          "score": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": null,
+            "y": null
+          },
+          "distance": null
+        }
+      },
+      "name": "B 22551",
+      "category": "B",
+      "subcategory": null,
+      "categoryCode": null,
+      "number": "61",
+      "operator": "VBZ",
+      "to": "Zürich, Mühlacker",
+      "passList": [
+        {
+          "station": {
+            "id": "8591281",
+            "name": null,
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": null,
+              "y": null
+            },
+            "distance": null
+          },
+          "arrival": null,
+          "arrivalTimestamp": null,
+          "departure": "2020-05-02T20:01:00+0200",
+          "departureTimestamp": 1588442460,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591281",
+            "name": null,
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": null,
+              "y": null
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8580449",
+            "name": "Zürich Oerlikon, Bahnhof",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.411493,
+              "y": 8.544789
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:03:00+0200",
+          "arrivalTimestamp": 1588442580,
+          "departure": "2020-05-02T20:03:00+0200",
+          "departureTimestamp": 1588442580,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8580449",
+            "name": "Zürich Oerlikon, Bahnhof",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.411493,
+              "y": 8.544789
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591314",
+            "name": "Zürich, Regensbergbrücke",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.40882,
+              "y": 8.539274
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:04:00+0200",
+          "arrivalTimestamp": 1588442640,
+          "departure": "2020-05-02T20:04:00+0200",
+          "departureTimestamp": 1588442640,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591314",
+            "name": "Zürich, Regensbergbrücke",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.40882,
+              "y": 8.539274
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591293",
+            "name": "Zürich, Oberwiesenstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.410473,
+              "y": 8.532815
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:05:00+0200",
+          "arrivalTimestamp": 1588442700,
+          "departure": "2020-05-02T20:05:00+0200",
+          "departureTimestamp": 1588442700,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591293",
+            "name": "Zürich, Oberwiesenstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.410473,
+              "y": 8.532815
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591285",
+            "name": "Zürich, Neuaffoltern",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.411842,
+              "y": 8.525025
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:06:00+0200",
+          "arrivalTimestamp": 1588442760,
+          "departure": "2020-05-02T20:06:00+0200",
+          "departureTimestamp": 1588442760,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591285",
+            "name": "Zürich, Neuaffoltern",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.411842,
+              "y": 8.525025
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591160",
+            "name": "Zürich, Glaubtenstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.414166,
+              "y": 8.518937
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:08:00+0200",
+          "arrivalTimestamp": 1588442880,
+          "departure": "2020-05-02T20:08:00+0200",
+          "departureTimestamp": 1588442880,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591160",
+            "name": "Zürich, Glaubtenstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.414166,
+              "y": 8.518937
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591118",
+            "name": "Zürich, Einfangstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.415697,
+              "y": 8.512925
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:09:00+0200",
+          "arrivalTimestamp": 1588442940,
+          "departure": "2020-05-02T20:09:00+0200",
+          "departureTimestamp": 1588442940,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591118",
+            "name": "Zürich, Einfangstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.415697,
+              "y": 8.512925
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8576262",
+            "name": "Zürich, Zehntenhausplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.41922,
+              "y": 8.506463
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:10:00+0200",
+          "arrivalTimestamp": 1588443000,
+          "departure": "2020-05-02T20:10:00+0200",
+          "departureTimestamp": 1588443000,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8576262",
+            "name": "Zürich, Zehntenhausplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.41922,
+              "y": 8.506463
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591054",
+            "name": "Zürich Affoltern, Bahnhof",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.421181,
+              "y": 8.507417
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:11:00+0200",
+          "arrivalTimestamp": 1588443060,
+          "departure": "2020-05-02T20:11:00+0200",
+          "departureTimestamp": 1588443060,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591054",
+            "name": "Zürich Affoltern, Bahnhof",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.421181,
+              "y": 8.507417
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591090",
+            "name": "Zürich, Blumenfeldstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.423773,
+              "y": 8.505255
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:13:00+0200",
+          "arrivalTimestamp": 1588443180,
+          "departure": "2020-05-02T20:13:00+0200",
+          "departureTimestamp": 1588443180,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591090",
+            "name": "Zürich, Blumenfeldstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.423773,
+              "y": 8.505255
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591046",
+            "name": "Zürich, Aspholz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.424982,
+              "y": 8.501025
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:14:00+0200",
+          "arrivalTimestamp": 1588443240,
+          "departure": "2020-05-02T20:14:00+0200",
+          "departureTimestamp": 1588443240,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591046",
+            "name": "Zürich, Aspholz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.424982,
+              "y": 8.501025
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591281",
+            "name": "Zürich, Mühlacker",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.426185,
+              "y": 8.49637
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:14:00+0200",
+          "arrivalTimestamp": 1588443240,
+          "departure": null,
+          "departureTimestamp": null,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591281",
+            "name": "Zürich, Mühlacker",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.426185,
+              "y": 8.49637
+            },
+            "distance": null
+          }
+        }
+      ],
+      "capacity1st": null,
+      "capacity2nd": null
+    },
+    {
+      "stop": {
+        "station": {
+          "id": "8591382",
+          "name": "Zürich, Sternen Oerlikon",
+          "score": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 47.410067,
+            "y": 8.54623
+          },
+          "distance": null
+        },
+        "arrival": null,
+        "arrivalTimestamp": null,
+        "departure": "2020-05-02T20:02:00+0200",
+        "departureTimestamp": 1588442520,
+        "delay": null,
+        "platform": null,
+        "prognosis": {
+          "platform": null,
+          "arrival": null,
+          "departure": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "realtimeAvailability": null,
+        "location": {
+          "id": "8591315",
+          "name": null,
+          "score": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": null,
+            "y": null
+          },
+          "distance": null
+        }
+      },
+      "name": "T 13757",
+      "category": "T",
+      "subcategory": null,
+      "categoryCode": null,
+      "number": "11",
+      "operator": "VBZ    F",
+      "to": "Zürich, Rehalp",
+      "passList": [
+        {
+          "station": {
+            "id": "8591315",
+            "name": null,
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": null,
+              "y": null
+            },
+            "distance": null
+          },
+          "arrival": null,
+          "arrivalTimestamp": null,
+          "departure": "2020-05-02T20:02:00+0200",
+          "departureTimestamp": 1588442520,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591315",
+            "name": null,
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": null,
+              "y": null
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8580449",
+            "name": "Zürich Oerlikon, Bahnhof",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.411493,
+              "y": 8.544789
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:04:00+0200",
+          "arrivalTimestamp": 1588442640,
+          "departure": "2020-05-02T20:04:00+0200",
+          "departureTimestamp": 1588442640,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8580449",
+            "name": "Zürich Oerlikon, Bahnhof",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.411493,
+              "y": 8.544789
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591314",
+            "name": "Zürich, Regensbergbrücke",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.40882,
+              "y": 8.539274
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:05:00+0200",
+          "arrivalTimestamp": 1588442700,
+          "departure": "2020-05-02T20:05:00+0200",
+          "departureTimestamp": 1588442700,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591314",
+            "name": "Zürich, Regensbergbrücke",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.40882,
+              "y": 8.539274
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591053",
+            "name": "Zürich, Bad Allenmoos",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.405892,
+              "y": 8.537783
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:06:00+0200",
+          "arrivalTimestamp": 1588442760,
+          "departure": "2020-05-02T20:06:00+0200",
+          "departureTimestamp": 1588442760,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591053",
+            "name": "Zürich, Bad Allenmoos",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.405892,
+              "y": 8.537783
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591307",
+            "name": "Zürich, Radiostudio",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.401977,
+              "y": 8.535185
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:08:00+0200",
+          "arrivalTimestamp": 1588442880,
+          "departure": "2020-05-02T20:08:00+0200",
+          "departureTimestamp": 1588442880,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591307",
+            "name": "Zürich, Radiostudio",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.401977,
+              "y": 8.535185
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591101",
+            "name": "Zürich, Bucheggplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.398406,
+              "y": 8.533283
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:09:00+0200",
+          "arrivalTimestamp": 1588442940,
+          "departure": "2020-05-02T20:09:00+0200",
+          "departureTimestamp": 1588442940,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591101",
+            "name": "Zürich, Bucheggplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.398406,
+              "y": 8.533283
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591246",
+            "name": "Zürich, Laubiweg",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.394986,
+              "y": 8.536339
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:10:00+0200",
+          "arrivalTimestamp": 1588443000,
+          "departure": "2020-05-02T20:10:00+0200",
+          "departureTimestamp": 1588443000,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591246",
+            "name": "Zürich, Laubiweg",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.394986,
+              "y": 8.536339
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591335",
+            "name": "Zürich, Schaffhauserplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.391626,
+              "y": 8.538707
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:12:00+0200",
+          "arrivalTimestamp": 1588443120,
+          "departure": "2020-05-02T20:12:00+0200",
+          "departureTimestamp": 1588443120,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591335",
+            "name": "Zürich, Schaffhauserplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.391626,
+              "y": 8.538707
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591237",
+            "name": "Zürich, Kronenstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.387952,
+              "y": 8.539121
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:13:00+0200",
+          "arrivalTimestamp": 1588443180,
+          "departure": "2020-05-02T20:13:00+0200",
+          "departureTimestamp": 1588443180,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591237",
+            "name": "Zürich, Kronenstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.387952,
+              "y": 8.539121
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591071",
+            "name": "Zürich, Beckenhof",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.384081,
+              "y": 8.540445
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:14:00+0200",
+          "arrivalTimestamp": 1588443240,
+          "departure": "2020-05-02T20:14:00+0200",
+          "departureTimestamp": 1588443240,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591071",
+            "name": "Zürich, Beckenhof",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.384081,
+              "y": 8.540445
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591379",
+            "name": "Zürich, Stampfenbachplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.38029,
+              "y": 8.542777
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:16:00+0200",
+          "arrivalTimestamp": 1588443360,
+          "departure": "2020-05-02T20:16:00+0200",
+          "departureTimestamp": 1588443360,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591379",
+            "name": "Zürich, Stampfenbachplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.38029,
+              "y": 8.542777
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8587349",
+            "name": "Zürich, Bahnhofquai/HB",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.377556,
+              "y": 8.541741
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:18:00+0200",
+          "arrivalTimestamp": 1588443480,
+          "departure": "2020-05-02T20:18:00+0200",
+          "departureTimestamp": 1588443480,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8587349",
+            "name": "Zürich, Bahnhofquai/HB",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.377556,
+              "y": 8.541741
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591067",
+            "name": "Zürich, Bahnhofstrasse/HB",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.37622,
+              "y": 8.539462
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:20:00+0200",
+          "arrivalTimestamp": 1588443600,
+          "departure": "2020-05-02T20:20:00+0200",
+          "departureTimestamp": 1588443600,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591067",
+            "name": "Zürich, Bahnhofstrasse/HB",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.37622,
+              "y": 8.539462
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591316",
+            "name": "Zürich, Rennweg",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.373063,
+              "y": 8.538457
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:22:00+0200",
+          "arrivalTimestamp": 1588443720,
+          "departure": "2020-05-02T20:22:00+0200",
+          "departureTimestamp": 1588443720,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591316",
+            "name": "Zürich, Rennweg",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.373063,
+              "y": 8.538457
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591299",
+            "name": "Zürich, Paradeplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.36973,
+              "y": 8.538918
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:23:00+0200",
+          "arrivalTimestamp": 1588443780,
+          "departure": "2020-05-02T20:23:00+0200",
+          "departureTimestamp": 1588443780,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591299",
+            "name": "Zürich, Paradeplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.36973,
+              "y": 8.538918
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591093",
+            "name": "Zürich, Kantonalbank",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.368166,
+              "y": 8.539746
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:24:00+0200",
+          "arrivalTimestamp": 1588443840,
+          "departure": "2020-05-02T20:24:00+0200",
+          "departureTimestamp": 1588443840,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591093",
+            "name": "Zürich, Kantonalbank",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.368166,
+              "y": 8.539746
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591105",
+            "name": "Zürich, Bürkliplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.366537,
+              "y": 8.540785
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:26:00+0200",
+          "arrivalTimestamp": 1588443960,
+          "departure": "2020-05-02T20:26:00+0200",
+          "departureTimestamp": 1588443960,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591105",
+            "name": "Zürich, Bürkliplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.366537,
+              "y": 8.540785
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8576193",
+            "name": "Zürich, Bellevue",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.367089,
+              "y": 8.545112
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:27:00+0200",
+          "arrivalTimestamp": 1588444020,
+          "departure": "2020-05-02T20:28:00+0200",
+          "departureTimestamp": 1588444080,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8576193",
+            "name": "Zürich, Bellevue",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.367089,
+              "y": 8.545112
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8503059",
+            "name": "Zürich Stadelhofen FB",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.36635,
+              "y": 8.548129
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:30:00+0200",
+          "arrivalTimestamp": 1588444200,
+          "departure": "2020-05-02T20:30:00+0200",
+          "departureTimestamp": 1588444200,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8503059",
+            "name": "Zürich Stadelhofen FB",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.36635,
+              "y": 8.548129
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8530813",
+            "name": "Zürich Kreuzplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.364871,
+              "y": 8.554082
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:31:00+0200",
+          "arrivalTimestamp": 1588444260,
+          "departure": "2020-05-02T20:31:00+0200",
+          "departureTimestamp": 1588444260,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8530813",
+            "name": "Zürich Kreuzplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.364871,
+              "y": 8.554082
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591364",
+            "name": "Zürich, Signaustrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.363227,
+              "y": 8.557622
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:32:00+0200",
+          "arrivalTimestamp": 1588444320,
+          "departure": "2020-05-02T20:32:00+0200",
+          "departureTimestamp": 1588444320,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591364",
+            "name": "Zürich, Signaustrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.363227,
+              "y": 8.557622
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8530812",
+            "name": "Zürich Hegibachplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.361687,
+              "y": 8.560622
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:33:00+0200",
+          "arrivalTimestamp": 1588444380,
+          "departure": "2020-05-02T20:33:00+0200",
+          "departureTimestamp": 1588444380,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8530812",
+            "name": "Zürich Hegibachplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.361687,
+              "y": 8.560622
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591180",
+            "name": "Zürich, Hedwigsteig",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.36042,
+              "y": 8.56503
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:35:00+0200",
+          "arrivalTimestamp": 1588444500,
+          "departure": "2020-05-02T20:35:00+0200",
+          "departureTimestamp": 1588444500,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591180",
+            "name": "Zürich, Hedwigsteig",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.36042,
+              "y": 8.56503
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591429",
+            "name": "Zürich, Wetlistrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.360151,
+              "y": 8.568625
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:35:00+0200",
+          "arrivalTimestamp": 1588444500,
+          "departure": "2020-05-02T20:35:00+0200",
+          "departureTimestamp": 1588444500,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591429",
+            "name": "Zürich, Wetlistrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.360151,
+              "y": 8.568625
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591104",
+            "name": "Zürich, Burgwies",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.358015,
+              "y": 8.571863
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:36:00+0200",
+          "arrivalTimestamp": 1588444560,
+          "departure": "2020-05-02T20:36:00+0200",
+          "departureTimestamp": 1588444560,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591104",
+            "name": "Zürich, Burgwies",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.358015,
+              "y": 8.571863
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8530811",
+            "name": "Zürich Balgrist",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.354575,
+              "y": 8.575019
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:37:00+0200",
+          "arrivalTimestamp": 1588444620,
+          "departure": "2020-05-02T20:37:00+0200",
+          "departureTimestamp": 1588444620,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8530811",
+            "name": "Zürich Balgrist",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.354575,
+              "y": 8.575019
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591142",
+            "name": "Zürich, Friedhof Enzenbühl",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.35097,
+              "y": 8.580277
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:39:00+0200",
+          "arrivalTimestamp": 1588444740,
+          "departure": "2020-05-02T20:39:00+0200",
+          "departureTimestamp": 1588444740,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591142",
+            "name": "Zürich, Friedhof Enzenbühl",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.35097,
+              "y": 8.580277
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591315",
+            "name": "Zürich, Rehalp",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.351024,
+              "y": 8.582978
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:40:00+0200",
+          "arrivalTimestamp": 1588444800,
+          "departure": null,
+          "departureTimestamp": null,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591315",
+            "name": "Zürich, Rehalp",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.351024,
+              "y": 8.582978
+            },
+            "distance": null
+          }
+        }
+      ],
+      "capacity1st": null,
+      "capacity2nd": null
+    },
+    {
+      "stop": {
+        "station": {
+          "id": "8591382",
+          "name": "Zürich, Sternen Oerlikon",
+          "score": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 47.410067,
+            "y": 8.54623
+          },
+          "distance": null
+        },
+        "arrival": null,
+        "arrivalTimestamp": null,
+        "departure": "2020-05-02T20:02:00+0200",
+        "departureTimestamp": 1588442520,
+        "delay": null,
+        "platform": null,
+        "prognosis": {
+          "platform": null,
+          "arrival": null,
+          "departure": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "realtimeAvailability": null,
+        "location": {
+          "id": "8591354",
+          "name": null,
+          "score": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": null,
+            "y": null
+          },
+          "distance": null
+        }
+      },
+      "name": "T 16923",
+      "category": "T",
+      "subcategory": null,
+      "categoryCode": null,
+      "number": "14",
+      "operator": "VBZ    F",
+      "to": "Zürich, Seebach",
+      "passList": [
+        {
+          "station": {
+            "id": "8591354",
+            "name": null,
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": null,
+              "y": null
+            },
+            "distance": null
+          },
+          "arrival": null,
+          "arrivalTimestamp": null,
+          "departure": "2020-05-02T20:02:00+0200",
+          "departureTimestamp": 1588442520,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591354",
+            "name": null,
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": null,
+              "y": null
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591063",
+            "name": "Zürich Oerlikon, Bahnhof Ost",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.413335,
+              "y": 8.545847
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:04:00+0200",
+          "arrivalTimestamp": 1588442640,
+          "departure": "2020-05-02T20:04:00+0200",
+          "departureTimestamp": 1588442640,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591063",
+            "name": "Zürich Oerlikon, Bahnhof Ost",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.413335,
+              "y": 8.545847
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591127",
+            "name": "Zürich, Felsenrainstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.416786,
+              "y": 8.545296
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:05:00+0200",
+          "arrivalTimestamp": 1588442700,
+          "departure": "2020-05-02T20:05:00+0200",
+          "departureTimestamp": 1588442700,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591127",
+            "name": "Zürich, Felsenrainstrasse",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.416786,
+              "y": 8.545296
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591355",
+            "name": "Zürich, Seebacherplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.41986,
+              "y": 8.548368
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:07:00+0200",
+          "arrivalTimestamp": 1588442820,
+          "departure": "2020-05-02T20:07:00+0200",
+          "departureTimestamp": 1588442820,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591355",
+            "name": "Zürich, Seebacherplatz",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.41986,
+              "y": 8.548368
+            },
+            "distance": null
+          }
+        },
+        {
+          "station": {
+            "id": "8591354",
+            "name": "Zürich, Seebach",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.421861,
+              "y": 8.549775
+            },
+            "distance": null
+          },
+          "arrival": "2020-05-02T20:08:00+0200",
+          "arrivalTimestamp": 1588442880,
+          "departure": null,
+          "departureTimestamp": null,
+          "delay": null,
+          "platform": null,
+          "prognosis": {
+            "platform": null,
+            "arrival": null,
+            "departure": null,
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "realtimeAvailability": null,
+          "location": {
+            "id": "8591354",
+            "name": "Zürich, Seebach",
+            "score": null,
+            "coordinate": {
+              "type": "WGS84",
+              "x": 47.421861,
+              "y": 8.549775
+            },
+            "distance": null
+          }
+        }
+      ],
+      "capacity1st": null,
+      "capacity2nd": null
+    }
+  ]
+}

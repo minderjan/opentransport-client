@@ -1,11 +1,12 @@
 # OpenTransport Client
-
-<img width="150" height="150" align="left" src=".github/library-logo.png">
   
 ![tests](https://github.com/minderjan/opentransport-client/workflows/tests/badge.svg?branch=master)
 [![codecov](https://codecov.io/gh/minderjan/opentransport-client/branch/master/graph/badge.svg?token=ZzmqsTPc4L)](https://codecov.io/gh/minderjan/opentransport-client)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=minderjan_opentransport-client&metric=alert_status&token=e1f286cda2f531e46f268d9af345bf4e6389a44c)](https://sonarcloud.io/dashboard?id=minderjan_opentransport-client)
 
+<p align="center">
+    <img width="230" height="230"src=".github/library-logo.png">
+</p>
 
 
 The OpenTransport Client offers a simplified integration of the Swiss Public Transport API into a Golang project. 

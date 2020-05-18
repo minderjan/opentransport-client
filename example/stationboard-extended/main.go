@@ -28,8 +28,12 @@ func main() {
 	// Enable logs to stdout
 	client.EnableLogs(nil)
 
+	// Define a timeout of 40 seconds
+	ctx, cancel := context.WithTimeout(context.Background(), time.Second*40)
+	defer cancel()
+
 	// Search a stationbard based on the advanced filters
-	result, err := client.Stationboard.SearchWithOpts(context.Background(), station, stbOpts)
+	result, err := client.Stationboard.SearchWithOpts(ctx, station, stbOpts)
 	if err != nil {
 		fmt.Printf("Could not get Stationboard for %s: %s", station, err)
 		os.Exit(1)

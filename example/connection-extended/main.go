@@ -24,9 +24,13 @@ func main() {
 		Limit:           2,
 	}
 
+	// Define a timeout of 40 seconds
+	ctx, cancel := context.WithTimeout(context.Background(), time.Second*40)
+	defer cancel()
+
 	// Crate a new opentransport client
 	client := opentransport.NewClient()
-	result, err := client.Connection.SearchWithOpts(context.Background(), from, to, when, &reqOpts)
+	result, err := client.Connection.SearchWithOpts(ctx, from, to, when, &reqOpts)
 
 	if err != nil {
 		fmt.Printf("Failed to search connection from %s to %s via %s at %s: %s",  from, to, reqOpts.Via, when.Format("2006-01-02 15:04"), err)

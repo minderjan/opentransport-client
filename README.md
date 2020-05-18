@@ -147,7 +147,7 @@ You're welcome to contribute to this repository. Please be aware of our [Code of
 
 ## Changelog
 
-* _v0.1.0_ Initial Version
+* v0.1.0 Initial Version
 
 ## License
 This software is licensed under a MIT license
